@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "vhtml": "^2.2.0",
     "vue": "^3.0.0-alpha.4",
     "vue-router": "^4.0.0-alpha.3"
   },
