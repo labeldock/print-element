@@ -3,8 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png" />
   </div>
   <div>
-    <pre v-html="JSON.stringify({ readyPrintForm })"></pre>
-
+    <pre>{{ { readyPrintForm } }}</pre>
     <h3>printElement</h3>
     <div style="border:1px solid silver">
       <div ref="printArea">
